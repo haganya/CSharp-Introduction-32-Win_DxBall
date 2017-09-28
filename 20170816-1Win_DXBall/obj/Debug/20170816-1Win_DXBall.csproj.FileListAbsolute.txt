@@ -1,0 +1,19 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\_20170816_1Win_DXBall.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\_20170816_1Win_DXBall.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\bin\Debug\20170816-1Win_DXBall.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\bin\Debug\20170816-1Win_DXBall.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\bin\Debug\20170816-1Win_DXBall.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\bin\Debug\20170816-1Win_DXBall.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\bin\Debug\20170816-1Win_DXBall.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\bin\Debug\20170816-1Win_DXBall.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\_20170816_1Win_DXBall.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\_20170816_1Win_DXBall.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.csproj.CoreCompileInputs.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-1Win_DXBall\20170816-1Win_DXBall\obj\Debug\20170816-1Win_DXBall.pdb
